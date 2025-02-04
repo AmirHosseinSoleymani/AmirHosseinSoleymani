@@ -27,18 +27,50 @@
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/HuggingFace-FF5C8D?style=for-the-badge&logo=huggingface&logoColor=white" />
   <img src="https://img.shields.io/badge/TQMZ-5C6BC0?style=for-the-badge&logo=tqmz&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyCaret-00B5E2?style=for-the-badge&logo=pycaret&logoColor=white" />
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit-learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/XGBoost-3CB371?style=for-the-badge&logo=xgboost&logoColor=white" />
-  <img src="https://img.shields.io/badge/LightGBM-1C5C24?style=for-the-badge&logo=lightgbm&logoColor=white" />
+<!--   <img src="https://img.shields.io/badge/LightGBM-1C5C24?style=for-the-badge&logo=lightgbm&logoColor=white" /> -->
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/spaCy-1F6F71?style=for-the-badge&logo=spacy&logoColor=white" />
-  <img src="https://img.shields.io/badge/NVIDIA%20CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
-  <img src="https://img.shields.io/badge/MLflow-2076D4?style=for-the-badge&logo=mlflow&logoColor=white" />
+<!--   <img src="https://img.shields.io/badge/spaCy-1F6F71?style=for-the-badge&logo=spacy&logoColor=white" /> -->
+<!--   <img src="https://img.shields.io/badge/NVIDIA%20CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" /> -->
+<!--   <img src="https://img.shields.io/badge/MLflow-2076D4?style=for-the-badge&logo=mlflow&logoColor=white" /> -->
   <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
   <img src="https://img.shields.io/badge/AutoML-FF6F00?style=for-the-badge&logo=automl&logoColor=white" />
 </p>
 
+<h4 align="center">📈 Regression Models</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/Linear%20Regression-0000FF?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Logistic%20Regression-00FF00?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Support%20Vector%20Regression-008080?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Decision%20Tree%20Regression-FF6347?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ridge%20Regression-FF0000?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lasso%20Regression-DAA520?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/XGBoost-3CB371?style=for-the-badge&logo=xgboost&logoColor=white" />
+  <img src="https://img.shields.io/badge/CatBoost-00B8D9?style=for-the-badge&logo=catboost&logoColor=white" />
+</p>
+
+<h4 align="center">📉 Classification Models</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/Logistic%20Regression-00FF00?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Decision%20Tree%20Classifier-FF6347?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/K%20Nearest%20Neighbors-0000FF?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Random%20Forest%20Classifier-228B22?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SVM%20Classifier-6A5ACD?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Naive%20Bayes-FFD700?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/KMeans%20Classifier-F0E68C?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/XGBoost-3CB371?style=for-the-badge&logo=xgboost&logoColor=white" />
+  <img src="https://img.shields.io/badge/CatBoost-00B8D9?style=for-the-badge&logo=catboost&logoColor=white" />
+</p>
+
+<h4 align="center">🔗 Neural Networks</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/Neural%20Networks-663399?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Neural%20Networks-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-4B0082?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/Convolutional%20Neural%20Networks-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+</p>
 
 
 <h3 align="center">🖥️ Web & Backend Development</h3>
