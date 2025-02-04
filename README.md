@@ -2,7 +2,7 @@
 
 
 **I'm AmirHosseinSoleymani** 
-<h2 align="center">🚀 Machine Learning & Backend Developer</h2>
+<h2 align="center">🚀Machine Learning Practitioner & Developer</h2>
 
 <p align="justify">
 I am currently focused on learning and expanding my skills in Machine Learning and its various algorithms. I have hands-on experience working with a wide range of ML models, including regression, classification, and neural networks. I can train models for different use cases and build AI-powered solutions for websites and applications, such as recommendation systems and other intelligent services. I am open to collaborating with teams, startups, and students to create innovative and impactful projects.
