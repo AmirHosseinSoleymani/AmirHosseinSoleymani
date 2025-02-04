@@ -36,18 +36,26 @@ I am currently focused on learning and expanding my skills in Machine Learning a
 
 <div align="center">
 
-| 📊 **Regression Models** | 🎯 **Classification Models** | 🔍 **Clustering Models** | 🧠 **Deep Learning Models** |
-|--------------------------|----------------------------|--------------------------|----------------------------|
-| Linear Regression | Decision Tree | K-Means | CNN |
-| Logistic Regression | SVM | Hierarchical Clustering | RNN |
-| Multiple Regression | Logistic Regression | DBSCAN | MLP |
-| Decision Tree Regression | K-Nearest Neighbors | GMM |  |
-| Random Forest Regression | Neural Networks |  |  |
-| XGBoost | Random Forest |  |  |
-| CatBoost | XGBoost / LightGBM / CatBoost |  |  |
-| Lasso / Ridge Regression | Naive Bayes |  |  |
+### 📊 Regression Models  
+🎯 Linear Regression • 🎯 Logistic Regression • 🎯 Multiple Regression  
+🌳 Decision Tree Regression • 🌲 Random Forest Regression  
+🔥 XGBoost • 🐱 CatBoost • 📏 Lasso/Ridge Regression  
+
+### 🎯 Classification Models  
+🌳 Decision Tree • 🚀 SVM • 🎯 Logistic Regression  
+👥 K-Nearest Neighbors • 🔗 Neural Networks  
+🌲 Random Forest • 🔥 XGBoost / CatBoost / GBR
+ 
+
+### 🔍 Clustering Models  
+📌 K-Means • 🏗 Hierarchical Clustering  
+🟣 DBSCAN • 
+
+### 🧠 Deep Learning Models  
+🖼 CNN • 🔢 MLP  
 
 </div>
+
 
 
 
