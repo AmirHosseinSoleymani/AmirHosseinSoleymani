@@ -4,17 +4,10 @@
 **I'm AmirHosseinSoleymani** 
 <h2 align="center">🚀 Machine Learning & Backend Developer</h2>
 
-<p align="center">
-  I am a passionate developer continuously learning and expanding my expertise in Machine Learning and its various algorithms. I have hands-on experience with a wide range of ML models, including regression, classification, and neural networks. I can train and fine-tune models for different use cases and integrate AI-powered solutions into websites and applications, such as recommendation systems and other intelligent services.
+<p align="justify">
+I am currently focused on learning and expanding my skills in Machine Learning and its various algorithms. I have hands-on experience working with a wide range of ML models, including regression, classification, and neural networks. I can train models for different use cases and build AI-powered solutions for websites and applications, such as recommendation systems and other intelligent services. I am open to collaborating with teams, startups, and students to create innovative and impactful projects.
 </p>
 
-<p align="center">
-  In addition, I specialize in backend development using Python, Django, and Django REST Framework (DRF). I also have a solid understanding of SQL and database management. On the frontend side, I am proficient in HTML, CSS, JavaScript, and Vue.js.
-</p>
-
-<p align="center">
-  I am always open to collaborating on exciting projects involving AI, web development, and backend systems. Let's connect and build something amazing!
-</p>
 
 <h2 align="center">🚀 Technologies & Skills</h2>
 
@@ -88,8 +81,11 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ML Models
 - 🌱 I’m currently learning ML
-- 👯 I’m looking to collaborate on Web Devloping and Backend also ML model
-- 🤔 I’m looking for help with ML and BackEnd
-- 💬 Ask me about ML , BackEnd , Python ,etc.
+- 👯 I’m looking to collaborate on ML for App and Web and Uni
+- 🤔 I’m looking for help with ML 
+- 💬 Ask me about ML , Python ,etc.
 - 📫 How to reach me: amir.h.slymni@gmail.com
 
+<p align="center">
+  I am always open to collaborating on exciting projects involving AI systems. Let's connect and build something amazing!
+</p>
