@@ -36,27 +36,40 @@ I am currently focused on learning and expanding my skills in Machine Learning a
 
 <div align="center">
 
-### 📊 Regression Models
-<img src="https://img.shields.io/badge/Linear_Regression-0277BD?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/Logistic_Regression-0277BD?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/Multiple_Regression-0277BD?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/XGBoost-FF0000?style=for-the-badge&logo=xgboost&logoColor=white">
-<img src="https://img.shields.io/badge/CatBoost-00BFFF?style=for-the-badge&logo=catboost&logoColor=white">
+## 📊 Regression Models
+<p>
+    <img src="https://img.shields.io/badge/Linear_Regression-0277BD?style=for-the-badge&logo=python&logoColor=white">
+    <img src="https://img.shields.io/badge/Logistic_Regression-0277BD?style=for-the-badge&logo=python&logoColor=white">
+    <img src="https://img.shields.io/badge/Multiple_Regression-0277BD?style=for-the-badge&logo=python&logoColor=white">
+    <img src="https://img.shields.io/badge/Decision_Tree_Regression-FFB300?style=for-the-badge&logo=python&logoColor=white">
+    <img src="https://img.shields.io/badge/Random_Forest_Regression-FFB300?style=for-the-badge&logo=python&logoColor=white">
+    <img src="https://img.shields.io/badge/XGBoost-FF0000?style=for-the-badge&logo=xgboost&logoColor=white">
+    <img src="https://img.shields.io/badge/CatBoost-00BFFF?style=for-the-badge&logo=catboost&logoColor=white">
+    <img src="https://img.shields.io/badge/Lasso_Ridge_Regression-FF0000?style=for-the-badge&logo=python&logoColor=white">
+</p>
 
-### 🎯 Classification Models
-<img src="https://img.shields.io/badge/Decision_Tree-FFB300?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/KNN-FF5733?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/Neural_Networks-663399?style=for-the-badge&logo=python&logoColor=white">
+## 🎯 Classification Models
+<p>
+    <img src="https://img.shields.io/badge/Decision_Tree-FFB300?style=for-the-badge&logo=python&logoColor=white">
+    <img src="https://img.shields.io/badge/Logistic_Regression-0277BD?style=for-the-badge&logo=python&logoColor=white">
+    <img src="https://img.shields.io/badge/KNN-FF5733?style=for-the-badge&logo=python&logoColor=white">
+    <img src="https://img.shields.io/badge/Neural_Networks-663399?style=for-the-badge&logo=python&logoColor=white">
+</p>
 
-### 🔍 Clustering Models
-<img src="https://img.shields.io/badge/K_Means-27AE60?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/DBSCAN-8E44AD?style=for-the-badge&logo=python&logoColor=white">
+## 🔍 Clustering Models
+<p>
+    <img src="https://img.shields.io/badge/K_Means-27AE60?style=for-the-badge&logo=python&logoColor=white">
+    <img src="https://img.shields.io/badge/DBSCAN-8E44AD?style=for-the-badge&logo=python&logoColor=white">
+</p>
 
-### 🧠 Deep Learning Models
-<img src="https://img.shields.io/badge/CNN-FF4500?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/MLP-FF4500?style=for-the-badge&logo=python&logoColor=white">
+## 🧠 Deep Learning Models
+<p>
+    <img src="https://img.shields.io/badge/CNN-FF4500?style=for-the-badge&logo=python&logoColor=white">
+    <img src="https://img.shields.io/badge/MLP-FF4500?style=for-the-badge&logo=python&logoColor=white">
+</p>
 
 </div>
+
 
 
 
