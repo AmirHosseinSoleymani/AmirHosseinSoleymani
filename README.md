@@ -32,7 +32,7 @@ I am currently focused on learning and expanding my skills in Machine Learning a
   <img src="https://img.shields.io/badge/AutoML-FF6F00?style=for-the-badge&logo=automl&logoColor=white" />
 </p>
 
-# 🚀 Machine Learning Models
+<h2 align="center">🚀 Machine Learning Models </h2>
 
 <div align="center">
 
