@@ -32,38 +32,45 @@ I am currently focused on learning and expanding my skills in Machine Learning a
   <img src="https://img.shields.io/badge/AutoML-FF6F00?style=for-the-badge&logo=automl&logoColor=white" />
 </p>
 
-<h4 align="center">📈 Regression Models</h4>
-<p align="center">
-  <img src="https://img.shields.io/badge/Linear%20Regression-0000FF?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Logistic%20Regression-00FF00?style=for-the-badge&logo=python&logoColor=white" />
-<!--   <img src="https://img.shields.io/badge/Support%20Vector%20Regression-008080?style=for-the-badge&logo=python&logoColor=white" /> -->
-  <img src="https://img.shields.io/badge/Decision%20Tree%20Regression-FF6347?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ridge%20Regression-FF0000?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Lasso%20Regression-DAA520?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/XGBoost-3CB371?style=for-the-badge&logo=xgboost&logoColor=white" />
-  <img src="https://img.shields.io/badge/CatBoost-00B8D9?style=for-the-badge&logo=catboost&logoColor=white" />
-</p>
+# 🚀 Machine Learning Models
 
-<h4 align="center">📉 Classification Models</h4>
-<p align="center">
-  <img src="https://img.shields.io/badge/Logistic%20Regression-00FF00?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Decision%20Tree%20Classifier-FF6347?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/K%20Nearest%20Neighbors-0000FF?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Random%20Forest%20Classifier-228B22?style=for-the-badge&logo=python&logoColor=white" />
-<!--   <img src="https://img.shields.io/badge/SVM%20Classifier-6A5ACD?style=for-the-badge&logo=python&logoColor=white" /> -->
-<!--   <img src="https://img.shields.io/badge/Naive%20Bayes-FFD700?style=for-the-badge&logo=python&logoColor=white" /> -->
-  <img src="https://img.shields.io/badge/KMeans%20Classifier-F0E68C?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/XGBoost-3CB371?style=for-the-badge&logo=xgboost&logoColor=white" />
-  <img src="https://img.shields.io/badge/CatBoost-00B8D9?style=for-the-badge&logo=catboost&logoColor=white" />
-</p>
+### 1. **Regression Models**
+- ![Linear Regression](https://img.shields.io/badge/Linear_Regression-0277BD?style=for-the-badge&logo=python&logoColor=white)
+- ![Logistic Regression](https://img.shields.io/badge/Logistic_Regression-0277BD?style=for-the-badge&logo=python&logoColor=white)
+- ![Multiple Regression](https://img.shields.io/badge/Multiple_Regression-0277BD?style=for-the-badge&logo=python&logoColor=white)
+- ![Decision Tree Regression](https://img.shields.io/badge/Decision_Tree_Regression-FFB300?style=for-the-badge&logo=python&logoColor=white)
+- ![Random Forest Regression](https://img.shields.io/badge/Random_Forest_Regression-FFB300?style=for-the-badge&logo=python&logoColor=white)
+- ![XGBoost](https://img.shields.io/badge/XGBoost-FF0000?style=for-the-badge&logo=xgboost&logoColor=white)
+- ![CatBoost](https://img.shields.io/badge/CatBoost-00BFFF?style=for-the-badge&logo=catboost&logoColor=white)
+- ![Lasso/Ridge Regression](https://img.shields.io/badge/Lasso_Ridge_Regression-FF0000?style=for-the-badge&logo=python&logoColor=white)
 
-<h4 align="center">🔗 Neural Networks</h4>
-<p align="center">
-<!--   <img src="https://img.shields.io/badge/Neural%20Networks-663399?style=for-the-badge&logo=pytorch&logoColor=white" /> -->
-  <img src="https://img.shields.io/badge/Neural%20Networks-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<!--   <img src="https://img.shields.io/badge/Deep%20Learning-4B0082?style=for-the-badge&logo=keras&logoColor=white" /> -->
-  <img src="https://img.shields.io/badge/Convolutional%20Neural%20Networks-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-</p>
+### 2. **Classification Models**
+- ![Decision Tree](https://img.shields.io/badge/Decision_Tree-FFB300?style=for-the-badge&logo=python&logoColor=white)
+- ![Logistic Regression](https://img.shields.io/badge/Logistic_Regression-0277BD?style=for-the-badge&logo=python&logoColor=white)
+- ![K-Nearest Neighbors](https://img.shields.io/badge/KNN-FF5733?style=for-the-badge&logo=python&logoColor=white)
+- ![Neural Networks](https://img.shields.io/badge/Neural_Networks-663399?style=for-the-badge&logo=python&logoColor=white)
+<!-- - ![Random Forest](https://img.shields.io/badge/Random_Forest-FF5733?style=for-the-badge&logo=python&logoColor=white)
+- ![Naive Bayes](https://img.shields.io/badge/Naive_Bayes-8E44AD?style=for-the-badge&logo=python&logoColor=white)
+- ![SVM](https://img.shields.io/badge/SVM-0277BD?style=for-the-badge&logo=python&logoColor=white) -->
+
+### 3. **Clustering Models**
+- ![K-Means](https://img.shields.io/badge/K_Means-27AE60?style=for-the-badge&logo=python&logoColor=white)
+<!-- - ![GMM](https://img.shields.io/badge/GMM-27AE60?style=for-the-badge&logo=python&logoColor=white)
+- ![Hierarchical Clustering](https://img.shields.io/badge/Hierarchical_Clustering-27AE60?style=for-the-badge&logo=python&logoColor=white) -->
+- ![DBSCAN](https://img.shields.io/badge/DBSCAN-8E44AD?style=for-the-badge&logo=python&logoColor=white)
+
+
+### 4. **Deep Learning Models**
+- ![CNN](https://img.shields.io/badge/CNN-FF4500?style=for-the-badge&logo=python&logoColor=white)
+<!-- - ![RNN](https://img.shields.io/badge/RNN-FF4500?style=for-the-badge&logo=python&logoColor=white) -->
+- ![MLP](https://img.shields.io/badge/MLP-FF4500?style=for-the-badge&logo=python&logoColor=white)
+<!-- - ![GNN](https://img.shields.io/badge/GNN-FF4500?style=for-the-badge&logo=python&logoColor=white) -->
+
+### 5. **Reinforcement Learning Models**
+<!-- - ![Q-Learning](https://img.shields.io/badge/Q_Learning-8E44AD?style=for-the-badge&logo=python&logoColor=white)
+- ![DQN](https://img.shields.io/badge/DQN-8E44AD?style=for-the-badge&logo=python&logoColor=white)
+- ![PPO](https://img.shields.io/badge/PPO-8E44AD?style=for-the-badge&logo=python&logoColor=white) -->
+
 
 
 <!-- <h3 align="center">🖥️ Web & Backend Development</h3>
