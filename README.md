@@ -10,7 +10,7 @@ I am currently focused on learning and expanding my skills in Machine Learning a
 
 
 <h2 align="center">🚀 Technologies & Skills</h2>
-
+<br>
 <h3 align="center">🧠 AI & Machine Learning Tools</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
