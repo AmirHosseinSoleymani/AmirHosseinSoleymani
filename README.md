@@ -32,14 +32,21 @@ I am currently focused on learning and expanding my skills in Machine Learning a
   <img src="https://img.shields.io/badge/AutoML-FF6F00?style=for-the-badge&logo=automl&logoColor=white" />
 </p>
 
+
+
+
+
 <h2 align="center">🚀 Machine Learning Models </h2>
 
 <div align="center">
+
 
 ### 📊 Regression Models  
 🎯 Linear Regression • 🎯 Logistic Regression • 🎯 Multiple Regression  
 🌳 Decision Tree Regression • 🌲 Random Forest Regression  
 🔥 XGBoost • 🐱 CatBoost • 📏 Lasso/Ridge Regression  
+
+
 
 ### 🎯 Classification Models  
 🌳 Decision Tree • 🚀 SVM • 🎯 Logistic Regression  
@@ -47,14 +54,20 @@ I am currently focused on learning and expanding my skills in Machine Learning a
 🌲 Random Forest • 🔥 XGBoost / CatBoost / GBR
  
 
+
+
 ### 🔍 Clustering Models  
 📌 K-Means • 🏗 Hierarchical Clustering  
 🟣 DBSCAN • 
+
+
 
 ### 🧠 Deep Learning Models  
 🖼 CNN • 🔢 MLP  
 
 </div>
+
+
 
 
 
