@@ -27,35 +27,8 @@
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/HuggingFace-FF5C8D?style=for-the-badge&logo=huggingface&logoColor=white" />
   <img src="https://img.shields.io/badge/TQMZ-5C6BC0?style=for-the-badge&logo=tqmz&logoColor=white" />
+    <img src="https://img.shields.io/badge/PyCaret-00B5E2?style=for-the-badge&logo=pycaret&logoColor=white" />
 </p>
-
-<h3 align="center">📊 Machine Learning Models</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-</p>
-
-<h4 align="center">📈 Regression Models</h4>
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyCaret-00B5E2?style=for-the-badge&logo=pycaret&logoColor=white" />
-</p>
-
-<h4 align="center">📉 Classification Models</h4>
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyCaret-00B5E2?style=for-the-badge&logo=pycaret&logoColor=white" />
-</p>
-
-<h4 align="center">🔗 Neural Networks</h4>
-<p align="center">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/HuggingFace-FF5C8D?style=for-the-badge&logo=huggingface&logoColor=white" />
-</p>
-
-
 
 
 <h3 align="center">🖥️ Web & Backend Development</h3>
