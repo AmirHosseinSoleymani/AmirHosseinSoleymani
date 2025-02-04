@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/badge/TQMZ-5C6BC0?style=for-the-badge&logo=tqmz&logoColor=white" />
   <img src="https://img.shields.io/badge/PyCaret-00B5E2?style=for-the-badge&logo=pycaret&logoColor=white" />
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit-learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit-learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 <!--   <img src="https://img.shields.io/badge/LightGBM-1C5C24?style=for-the-badge&logo=lightgbm&logoColor=white" /> -->
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
 <!--   <img src="https://img.shields.io/badge/spaCy-1F6F71?style=for-the-badge&logo=spacy&logoColor=white" /> -->
