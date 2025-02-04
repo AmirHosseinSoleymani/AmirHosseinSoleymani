@@ -36,37 +36,16 @@ I am currently focused on learning and expanding my skills in Machine Learning a
 
 <div align="center">
 
-## 📊 Regression Models
-<p>
-    <img src="https://img.shields.io/badge/Linear_Regression-0277BD?style=for-the-badge&logo=python&logoColor=white">
-    <img src="https://img.shields.io/badge/Logistic_Regression-0277BD?style=for-the-badge&logo=python&logoColor=white">
-    <img src="https://img.shields.io/badge/Multiple_Regression-0277BD?style=for-the-badge&logo=python&logoColor=white">
-    <img src="https://img.shields.io/badge/Decision_Tree_Regression-FFB300?style=for-the-badge&logo=python&logoColor=white">
-    <img src="https://img.shields.io/badge/Random_Forest_Regression-FFB300?style=for-the-badge&logo=python&logoColor=white">
-    <img src="https://img.shields.io/badge/XGBoost-FF0000?style=for-the-badge&logo=xgboost&logoColor=white">
-    <img src="https://img.shields.io/badge/CatBoost-00BFFF?style=for-the-badge&logo=catboost&logoColor=white">
-    <img src="https://img.shields.io/badge/Lasso_Ridge_Regression-FF0000?style=for-the-badge&logo=python&logoColor=white">
-</p>
-
-## 🎯 Classification Models
-<p>
-    <img src="https://img.shields.io/badge/Decision_Tree-FFB300?style=for-the-badge&logo=python&logoColor=white">
-    <img src="https://img.shields.io/badge/Logistic_Regression-0277BD?style=for-the-badge&logo=python&logoColor=white">
-    <img src="https://img.shields.io/badge/KNN-FF5733?style=for-the-badge&logo=python&logoColor=white">
-    <img src="https://img.shields.io/badge/Neural_Networks-663399?style=for-the-badge&logo=python&logoColor=white">
-</p>
-
-## 🔍 Clustering Models
-<p>
-    <img src="https://img.shields.io/badge/K_Means-27AE60?style=for-the-badge&logo=python&logoColor=white">
-    <img src="https://img.shields.io/badge/DBSCAN-8E44AD?style=for-the-badge&logo=python&logoColor=white">
-</p>
-
-## 🧠 Deep Learning Models
-<p>
-    <img src="https://img.shields.io/badge/CNN-FF4500?style=for-the-badge&logo=python&logoColor=white">
-    <img src="https://img.shields.io/badge/MLP-FF4500?style=for-the-badge&logo=python&logoColor=white">
-</p>
+| 📊 **Regression Models** | 🎯 **Classification Models** | 🔍 **Clustering Models** | 🧠 **Deep Learning Models** |
+|--------------------------|----------------------------|--------------------------|----------------------------|
+| Linear Regression | Decision Tree | K-Means | CNN |
+| Logistic Regression | SVM | Hierarchical Clustering | RNN |
+| Multiple Regression | Logistic Regression | DBSCAN | MLP |
+| Decision Tree Regression | K-Nearest Neighbors | GMM |  |
+| Random Forest Regression | Neural Networks |  |  |
+| XGBoost | Random Forest |  |  |
+| CatBoost | XGBoost / LightGBM / CatBoost |  |  |
+| Lasso / Ridge Regression | Naive Bayes |  |  |
 
 </div>
 
