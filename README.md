@@ -66,8 +66,9 @@ I am currently focused on learning and expanding my skills in Machine Learning a
 - ![MLP](https://img.shields.io/badge/MLP-FF4500?style=for-the-badge&logo=python&logoColor=white)
 <!-- - ![GNN](https://img.shields.io/badge/GNN-FF4500?style=for-the-badge&logo=python&logoColor=white) -->
 
-### 5. **Reinforcement Learning Models**
-<!-- - ![Q-Learning](https://img.shields.io/badge/Q_Learning-8E44AD?style=for-the-badge&logo=python&logoColor=white)
+
+<!-- ### 5. **Reinforcement Learning Models**
+- ![Q-Learning](https://img.shields.io/badge/Q_Learning-8E44AD?style=for-the-badge&logo=python&logoColor=white)
 - ![DQN](https://img.shields.io/badge/DQN-8E44AD?style=for-the-badge&logo=python&logoColor=white)
 - ![PPO](https://img.shields.io/badge/PPO-8E44AD?style=for-the-badge&logo=python&logoColor=white) -->
 
