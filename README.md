@@ -27,8 +27,18 @@
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/HuggingFace-FF5C8D?style=for-the-badge&logo=huggingface&logoColor=white" />
   <img src="https://img.shields.io/badge/TQMZ-5C6BC0?style=for-the-badge&logo=tqmz&logoColor=white" />
-    <img src="https://img.shields.io/badge/PyCaret-00B5E2?style=for-the-badge&logo=pycaret&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit-learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/XGBoost-3CB371?style=for-the-badge&logo=xgboost&logoColor=white" />
+  <img src="https://img.shields.io/badge/LightGBM-1C5C24?style=for-the-badge&logo=lightgbm&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/spaCy-1F6F71?style=for-the-badge&logo=spacy&logoColor=white" />
+  <img src="https://img.shields.io/badge/NVIDIA%20CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/MLflow-2076D4?style=for-the-badge&logo=mlflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
+  <img src="https://img.shields.io/badge/AutoML-FF6F00?style=for-the-badge&logo=automl&logoColor=white" />
 </p>
+
 
 
 <h3 align="center">🖥️ Web & Backend Development</h3>
